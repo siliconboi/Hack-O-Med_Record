@@ -8,8 +8,8 @@ and hence the patients will not have to go about the hospitals with an entire me
 
 ## Contributors
 
-1. [Rishita Shaw](http://github.com/theseregrets)
-2. [Aishwary Tripathi](http://github.com/siliconboi)
+1. [Aishwary Tripathi](http://github.com/siliconboi)
+2. [Thrishul Reddy](http://github.com/thrishul26)
 
 ## Objective
 
