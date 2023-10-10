@@ -7,8 +7,8 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from flask import *
 
-senderacc="akiratakisawa97@gmail.com"
-senderpass="AccPass1"
+senderacc="adityamitra5102devacc@gmail.com"
+senderpass="AccountPassword1"
 server='smtp.gmail.com'
 port=587
 
@@ -55,7 +55,7 @@ def sendEmailTokenAdd(id,hname,exp):
 	s.sendmail(senderacc, id, message)
 	s.quit()
 	
-def sendLogEmail(k, recid='aishwarytripathi2001@gmail.com'):
+def sendLogEmail(k, recid='adityaarghya0@gmail.com'):
 	s = smtplib.SMTP(server,port)
 	s.starttls()
 	s.login(senderacc, senderpass)

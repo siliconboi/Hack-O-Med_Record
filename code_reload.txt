@@ -3,7 +3,7 @@
 clear
 cd ~
 rm -rf Medical-Record
-git clone https://github.com/siliconboi/Hack-O-Med_Record
+git clone https://github.com/AdityaMitra5102/Medical-Record
 mkdir medrecords
 cd medrecords
 mkdir appfiles
